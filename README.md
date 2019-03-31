@@ -15,8 +15,8 @@ Search for a stock: `iex summary TICKER`
 
 Example: `iex summary AAPL`
 
-[Imgur](https://i.imgur.com/srwLcUZ.png)
 
+![alt text](https://i.imgur.com/srwLcUZ.png "Example Usage")
 
 
 
