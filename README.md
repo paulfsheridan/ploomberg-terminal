@@ -6,6 +6,8 @@ ploomberg-terminal is a cli tool to display stock data using the IEX Finance API
 ```bash
 $ git clone https://github.com/paulfsheridan/ploomberg-terminal.git
 $ cd ploomberg-terminal
+$ activate a virtualenv
+$ pip install -r requirements
 $ pip install .
 ```
 
