@@ -1,0 +1,8 @@
+certifi==2019.3.9
+chardet==3.0.4
+Click==7.0
+idna==2.8
+IexCli==1.0
+requests==2.21.0
+urllib3==1.24.1
+urwid==2.0.1
